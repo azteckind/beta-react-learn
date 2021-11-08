@@ -3,7 +3,7 @@ import { Profile } from "./Profile";
 export default function Gallery() {
     return(
       <section>
-        <h1>Amazing Scientists</h1>
+        <h2>Amazing Scientists</h2>
         <Profile />
         <Profile />
         <Profile />
