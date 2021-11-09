@@ -1,18 +1,6 @@
 import { getImageUrl } from './utils.js';
 
 //This method allows you reduce the number of repeating
-const size = {
-    if (_size > 90) {
-        return (
-            size = 's';
-        );
-    };
-
-    return (
-        size ='s'
-    )
-};
-
 function Profile({
   imageId,
   name,
